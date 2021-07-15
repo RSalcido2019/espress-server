@@ -1,0 +1,27 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "express-server project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest",
+    "start": "node server.js"
+  },
+  "author": "Ricardo Salcido",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSalcido2019/espress-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RSalcido2019/espress-server/issues"
+  },
+  "homepage": "https://github.com/RSalcido2019/espress-server#readme"
+}
